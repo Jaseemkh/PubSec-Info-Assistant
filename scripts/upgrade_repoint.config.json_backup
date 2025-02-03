@@ -1,0 +1,12 @@
+{
+"old_env":
+    {
+        "resource_group": "infoasst-eispolicyagent1",
+        "random_text": "xfiez"
+    },
+"new_env":
+    {
+        "resource_group": "infoasst-eispolicyagent1",
+        "random_text": "xfiez"
+    }
+}
